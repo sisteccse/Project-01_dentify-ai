@@ -1,3 +1,8 @@
+### Doumentation
+https://github.com/nikhivishwaa/dentify-ai
+
+
+
 #### Dentify AI Project Setup
 `Requirements:`<br>
 - `8 GB RAM`<br>
